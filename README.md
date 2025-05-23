@@ -1,14 +1,30 @@
+# 🍔 QuickEats – Your Go-To Food Delivery Website
+
+**QuickEats** is a sleek and responsive food delivery website that brings your favorite meals to your screen with style and simplicity. Designed for an effortless browsing and ordering experience, QuickEats is perfect for showcasing front-end skills with real-world UI concepts.
 
 ---
 
-### ✅ To Use This:
+## 🚀 Live Demo
 
-1. Create a file named `README.md` in your repo.
-2. Paste the above content.
-3. Replace:
-   - `your-username` with your **GitHub username**
-   - Update `preview.png` with a real screenshot (drag/drop image in your repo)
+🌐 [Check out QuickEats here!](https://tineshiadsouza29.github.io/quickeats-food-delivery/)  
 
 ---
 
-Would you like a matching **preview image** (homepage screenshot) or a deploy guide next?
+## ✨ Features
+
+- 🍕 **Responsive Design** – Seamless experience across desktops, tablets, and mobiles.
+- 🔍 **Interactive UI** – Hover effects, smooth transitions, and intuitive navigation.
+- 📦 **Modular Code** – Clean separation of HTML, CSS, and JavaScript for easy maintenance.
+- 🍜 **Visual Appeal** – Food-themed UI with eye-catching layouts and modern design.
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5** – For semantic and structured markup  
+- **CSS3** – Flexbox, animations, and custom styles  
+- **JavaScript** – Dynamic elements and interactivity
+
+---
+
+
